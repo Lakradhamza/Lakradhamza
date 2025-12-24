@@ -39,6 +39,10 @@ I specialize in:
 - Automated ETL processes and implemented **data quality controls** for better reporting.
 
 ---
+## **Outils** 
+![Power BI](https://img.shields.io/badge/Power%20BI-Data-yellow)
+![Talend](https://img.shields.io/badge/Talend-ETL-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
 
 ## 🚀 **Personal Projects**
 
