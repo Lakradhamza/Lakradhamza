@@ -170,7 +170,7 @@ I'm always open to discussing Business Intelligence, data analytics, or potentia
 
 [![Email](https://img.shields.io/badge/Email-hamzalakrad42%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzalakrad42@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B212%20625%20562%20438-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212625562438)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-lakrad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-lakrad-222214232/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hamzalakrad.github.io)
 
 </div>
