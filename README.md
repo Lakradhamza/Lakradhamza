@@ -34,8 +34,7 @@ I'm a Business Intelligence professional passionate about transforming raw data 
 - Redesigned ETL workflows in **Talend** to accommodate dynamic Excel file structures
 - Implemented automated compliance validation and anomaly detection with email alerting
 - Generated XML files compliant with Moroccan tax authority (DGI) specifications
-- Ensured data accuracy and regulatory compliance for tax reporting
-- Reduced manual processing time by 70% through automation
+
 
 ### 💳 BI Consultant - Collection Activity Management
 **Mercure IT | Client: EQDOM Bank**  
@@ -55,7 +54,7 @@ I'm a Business Intelligence professional passionate about transforming raw data 
 - Automated ETL processes to streamline data integration from multiple sources
 - Established data quality controls and validation rules to ensure reporting accuracy
 - Created executive dashboards for strategic financial oversight
-- Improved reporting efficiency by 60% through process optimization
+
 
 ---
 
@@ -120,9 +119,8 @@ Faculty of Sciences Ben M'sik, Casablanca
 - **Data Warehousing:** Dimensional Modeling, ETL Design
 - **Data Analysis:** Statistical Analysis, Trend Analysis, KPI Development
 - **Data Quality:** Data Profiling, Cleansing, Validation
-- **Reporting:** Interactive Dashboards, Automated Reports, Ad-hoc Analysis
-- **Version Control:** Git, GitHub
-- **Methodologies:** Agile, Scrum
+- **Reporting:** Interactive Dashboards, Automated Reports
+
 
 ---
 
@@ -134,33 +132,9 @@ Faculty of Sciences Ben M'sik, Casablanca
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzalakrad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalakrad&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 📈 Activity Graph
-
-[![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzalakrad&theme=tokyo-night)](https://github.com/hamzalakrad)
-
----
-
-## 🏆 Certifications & Learning
-
-- 🎯 Business Intelligence Development
-- 📊 Advanced Power BI & DAX
-- 🔄 ETL Best Practices
-- 🗄️ Data Modeling & Architecture
-- ☁️ Cloud Data Solutions
-
----
 
 ## 📫 Let's Connect
 
@@ -189,11 +163,7 @@ I'm always open to discussing Business Intelligence, data analytics, or potentia
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
----
 
 ## 🤝 Open to Opportunities
 
