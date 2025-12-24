@@ -1,6 +1,10 @@
 # Hamza LAKRAD - Consultant Business Intelligence
 
 Welcome to my GitHub profile! I am a **Business Intelligence Consultant** with a focus on **ETL, reporting, data transformation, and visualization**. I work with organizations to help them leverage their data for **decision-making** and **business optimization**. Feel free to explore my repositories to see the tools and solutions I've built.
+![Power BI](https://img.shields.io/badge/Power%20BI-Data-yellow)
+![Talend](https://img.shields.io/badge/Talend-ETL-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+
 
 ---
 
@@ -39,10 +43,7 @@ I specialize in:
 - Automated ETL processes and implemented **data quality controls** for better reporting.
 
 ---
-## **Outils** 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data-yellow)
-![Talend](https://img.shields.io/badge/Talend-ETL-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-orange)
+
 
 ## 🚀 **Personal Projects**
 
